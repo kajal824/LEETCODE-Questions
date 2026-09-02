@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal824/LEETCODE-Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/kajal824/LEETCODE-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal824/LEETCODE-Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/kajal824/LEETCODE-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 <!---LeetCode Topics End-->
