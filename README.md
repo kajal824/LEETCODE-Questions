@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/kajal824/LEETCODE-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/kajal824/LEETCODE-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/kajal824/LEETCODE-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->
