@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/kajal824/LEETCODE-Questions/tree/main/0383-ransom-note/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal824/LEETCODE-Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Bit Manipulation
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kajal824/LEETCODE-Questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/kajal824/LEETCODE-Questions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/kajal824/LEETCODE-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
