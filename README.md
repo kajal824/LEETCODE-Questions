@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/kajal824/LEETCODE-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/kajal824/LEETCODE-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
