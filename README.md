@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kajal824/LEETCODE-Questions/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kajal824/LEETCODE-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/kajal824/LEETCODE-Questions/tree/main/0283-move-zeroes/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kajal824/LEETCODE-Questions/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kajal824/LEETCODE-Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kajal824/LEETCODE-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/kajal824/LEETCODE-Questions/tree/main/0283-move-zeroes/) | Easy |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
