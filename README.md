@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-circle-and-rectangle-overlapping](https://github.com/kajal824/LEETCODE-Questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kajal824/LEETCODE-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2469-convert-the-temperature](https://github.com/kajal824/LEETCODE-Questions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/3871-count-commas-in-range-ii/) | Medium |
