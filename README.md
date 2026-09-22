@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/kajal824/LEETCODE-Questions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0835-image-overlap](https://github.com/kajal824/LEETCODE-Questions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kajal824/LEETCODE-Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal824/LEETCODE-Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Breadth-First Search
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kajal824/LEETCODE-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kajal824/LEETCODE-Questions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/kajal824/LEETCODE-Questions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kajal824/LEETCODE-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kajal824/LEETCODE-Questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -202,4 +206,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/kajal824/LEETCODE-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
