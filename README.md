@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/kajal824/LEETCODE-Questions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/kajal824/LEETCODE-Questions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/kajal824/LEETCODE-Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0835-image-overlap](https://github.com/kajal824/LEETCODE-Questions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
