@@ -10,7 +10,7 @@
  * }
  */
 public class Solution {
-    // 1. Fixed: Removed 'int pos' so it matches LeetCode's required signature
+   
     public boolean hasCycle(ListNode head) {
         ListNode cur  = head;
         if(head == null){
