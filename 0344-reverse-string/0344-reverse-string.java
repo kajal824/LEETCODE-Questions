@@ -1,21 +1,22 @@
 class Solution {
     public void reverseString(char[] s) {
 
-        int n = s.length;
+        int l = 0;
 
-        char[] ans = new char[n];
-        for(int i=n-1; i>=0; i--){
+        int r = s.length-1;
 
-            ans[n-1-i] = s[i];
-
-
-
-            
+        while(l<r){
+            swap(s,l,r);
+            l++;
+            r--;
         }
 
-        for(int i=0; i<n ; i++){
-            s[i] = ans[i];
-        }
+        
         
     }
+    public void swap( char[] s, int a, int b){
+            char tem = s[a];
+            s[a]=s[b];
+            s[b]=tem;
+        }
 }
