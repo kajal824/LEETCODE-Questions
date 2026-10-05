@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        // Edge case check: agar list khali hai ya ek hi node hai
+        
         if (head == null || head.next == null) {
             return head;
         }
