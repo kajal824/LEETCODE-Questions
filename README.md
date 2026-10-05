@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/kajal824/LEETCODE-Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kajal824/LEETCODE-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/kajal824/LEETCODE-Questions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/kajal824/LEETCODE-Questions/tree/main/0344-reverse-string/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0143-reorder-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/kajal824/LEETCODE-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/kajal824/LEETCODE-Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/kajal824/LEETCODE-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Counting
