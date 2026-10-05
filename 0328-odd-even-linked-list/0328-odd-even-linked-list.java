@@ -8,49 +8,32 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-import java.util.ArrayList;
-
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        
-        if (head == null || head.next == null) {
+
+        if(head==null || head.next==null){
             return head;
         }
-
-        ArrayList<ListNode> ar = new ArrayList<>();
-        ListNode cr = head;
-
-        while (cr != null) {
-            ar.add(cr);
-            cr = cr.next;
-        }
-
         ListNode odd = head;
-        ListNode even = head.next;
-        ListNode ehead = even; 
+        ListNode even= head.next;
 
-        
-        for (int i = 0; i < ar.size(); i += 2) {
-            
+        ListNode ehead = even;
 
-            if (i + 2 < ar.size()) {
-                odd.next = ar.get(i + 2); 
-                odd = odd.next;           
-            }
-            
-           
-            if (i + 3 < ar.size()) {
-                even.next = ar.get(i + 3); 
-                even = even.next;          
-            }
+        while(even!=null&& even.next!=null){
+            odd.next = even.next;
+            odd = odd.next;
+
+            even.next = odd.next;
+
+            even = even.next;
         }
-        
 
-        even.next = null;
-        
-        
         odd.next = ehead;
-        
+
         return head;
+
+
+
+        
     }
 }
