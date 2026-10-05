@@ -12,44 +12,45 @@ import java.util.ArrayList;
 
 class Solution {
     public ListNode oddEvenList(ListNode head) {
+        // Edge case check: agar list khali hai ya ek hi node hai
         if (head == null || head.next == null) {
-            return head; 
+            return head;
         }
 
-        
         ArrayList<ListNode> ar = new ArrayList<>();
         ListNode cr = head;
+
         while (cr != null) {
             ar.add(cr);
             cr = cr.next;
         }
 
-        
-        ListNode oddDummy = new ListNode(0);
-        ListNode evenDummy = new ListNode(0);
-        
-        ListNode odd = oddDummy;   
-        ListNode even = evenDummy; 
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode ehead = even; 
 
         
-        for (int i = 0; i < ar.size(); i++) {
-            if (i % 2 == 0) {
-                odd.next = ar.get(i); 
-                odd = odd.next;       
-            } else {
-                
-                even.next = ar.get(i); 
-                even = even.next;      
+        for (int i = 0; i < ar.size(); i += 2) {
+            
+
+            if (i + 2 < ar.size()) {
+                odd.next = ar.get(i + 2); 
+                odd = odd.next;           
+            }
+            
+           
+            if (i + 3 < ar.size()) {
+                even.next = ar.get(i + 3); 
+                even = even.next;          
             }
         }
-
         
+
         even.next = null;
         
-       
-        odd.next = evenDummy.next;
-
         
-        return oddDummy.next;
+        odd.next = ehead;
+        
+        return head;
     }
 }
