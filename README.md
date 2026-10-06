@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/kajal824/LEETCODE-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/kajal824/LEETCODE-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal824/LEETCODE-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal824/LEETCODE-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kajal824/LEETCODE-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal824/LEETCODE-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Combinatorics
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal824/LEETCODE-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
