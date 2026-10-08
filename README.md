@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/kajal824/LEETCODE-Questions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/kajal824/LEETCODE-Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0835-image-overlap](https://github.com/kajal824/LEETCODE-Questions/tree/main/0835-image-overlap/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kajal824/LEETCODE-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal824/LEETCODE-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Recursion
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0148-sort-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
