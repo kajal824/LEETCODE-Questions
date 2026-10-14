@@ -205,16 +205,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kajal824/LEETCODE-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kajal824/LEETCODE-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kajal824/LEETCODE-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal824/LEETCODE-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
