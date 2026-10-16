@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/kajal824/LEETCODE-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kajal824/LEETCODE-Questions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0525-contiguous-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kajal824/LEETCODE-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/kajal824/LEETCODE-Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/kajal824/LEETCODE-Questions/tree/main/0724-find-pivot-index/) | Easy |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/kajal824/LEETCODE-Questions/tree/main/0383-ransom-note/) | Easy |
+| [0525-contiguous-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kajal824/LEETCODE-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/kajal824/LEETCODE-Questions/tree/main/0645-set-mismatch/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kajal824/LEETCODE-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0525-contiguous-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kajal824/LEETCODE-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kajal824/LEETCODE-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kajal824/LEETCODE-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
