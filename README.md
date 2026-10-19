@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/kajal824/LEETCODE-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kajal824/LEETCODE-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kajal824/LEETCODE-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kajal824/LEETCODE-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kajal824/LEETCODE-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kajal824/LEETCODE-Questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sorting
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/kajal824/LEETCODE-Questions/tree/main/0645-set-mismatch/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kajal824/LEETCODE-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kajal824/LEETCODE-Questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kajal824/LEETCODE-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
