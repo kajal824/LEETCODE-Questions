@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/kajal824/LEETCODE-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kajal824/LEETCODE-Questions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kajal824/LEETCODE-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/kajal824/LEETCODE-Questions/tree/main/0645-set-mismatch/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/kajal824/LEETCODE-Questions/tree/main/0383-ransom-note/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kajal824/LEETCODE-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/kajal824/LEETCODE-Questions/tree/main/0645-set-mismatch/) | Easy |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0268-missing-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0836-rectangle-overlap](https://github.com/kajal824/LEETCODE-Questions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kajal824/LEETCODE-Questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kajal824/LEETCODE-Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kajal824/LEETCODE-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kajal824/LEETCODE-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kajal824/LEETCODE-Questions/tree/main/0724-find-pivot-index/) | Easy |
@@ -319,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
