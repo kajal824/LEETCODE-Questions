@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/kajal824/LEETCODE-Questions/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/kajal824/LEETCODE-Questions/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kajal824/LEETCODE-Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kajal824/LEETCODE-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/kajal824/LEETCODE-Questions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/kajal824/LEETCODE-Questions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/kajal824/LEETCODE-Questions/tree/main/0342-power-of-four/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kajal824/LEETCODE-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/kajal824/LEETCODE-Questions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/kajal824/LEETCODE-Questions/tree/main/0342-power-of-four/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
