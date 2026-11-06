@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kajal824/LEETCODE-Questions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/kajal824/LEETCODE-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kajal824/LEETCODE-Questions/tree/main/0027-remove-element/) | Easy |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/kajal824/LEETCODE-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/kajal824/LEETCODE-Questions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -422,4 +424,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/kajal824/LEETCODE-Questions/tree/main/0204-count-primes/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/kajal824/LEETCODE-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
