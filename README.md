@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3525-find-x-value-of-array-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kajal824/LEETCODE-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal824/LEETCODE-Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kajal824/LEETCODE-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kajal824/LEETCODE-Questions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/kajal824/LEETCODE-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kajal824/LEETCODE-Questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/kajal824/LEETCODE-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
