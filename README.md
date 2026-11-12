@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/kajal824/LEETCODE-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kajal824/LEETCODE-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kajal824/LEETCODE-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kajal824/LEETCODE-Questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kajal824/LEETCODE-Questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/kajal824/LEETCODE-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
