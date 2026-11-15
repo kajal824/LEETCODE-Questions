@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kajal824/LEETCODE-Questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kajal824/LEETCODE-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kajal824/LEETCODE-Questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kajal824/LEETCODE-Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kajal824/LEETCODE-Questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kajal824/LEETCODE-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/kajal824/LEETCODE-Questions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kajal824/LEETCODE-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kajal824/LEETCODE-Questions/tree/main/0724-find-pivot-index/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kajal824/LEETCODE-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kajal824/LEETCODE-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/kajal824/LEETCODE-Questions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kajal824/LEETCODE-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kajal824/LEETCODE-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kajal824/LEETCODE-Questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
