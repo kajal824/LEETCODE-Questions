@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/kajal824/LEETCODE-Questions/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/kajal824/LEETCODE-Questions/tree/main/0645-set-mismatch/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/kajal824/LEETCODE-Questions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kajal824/LEETCODE-Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kajal824/LEETCODE-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal824/LEETCODE-Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kajal824/LEETCODE-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/kajal824/LEETCODE-Questions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0836-rectangle-overlap](https://github.com/kajal824/LEETCODE-Questions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kajal824/LEETCODE-Questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kajal824/LEETCODE-Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/kajal824/LEETCODE-Questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/kajal824/LEETCODE-Questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/kajal824/LEETCODE-Questions/tree/main/0342-power-of-four/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/kajal824/LEETCODE-Questions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
