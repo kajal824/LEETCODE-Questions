@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kajal824/LEETCODE-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/kajal824/LEETCODE-Questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
