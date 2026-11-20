@@ -30,7 +30,12 @@ class Solution {
     }
 
     public List<List<Integer>> removeDuplicates(List<List<Integer>> list) {
-        Set<List<Integer>> set = new HashSet<>(list);
-        return new ArrayList<>(set);
+        List<List<Integer>> unique = new ArrayList<>();
+        for (List<Integer> item : list) {
+            if (!unique.contains(item)) {
+                unique.add(item);
+            }
+        }
+        return unique;
     }
 }
