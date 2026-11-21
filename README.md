@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kajal824/LEETCODE-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/kajal824/LEETCODE-Questions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0494-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0494-target-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kajal824/LEETCODE-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/kajal824/LEETCODE-Questions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0494-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0494-target-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/kajal824/LEETCODE-Questions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/kajal824/LEETCODE-Questions/tree/main/0051-n-queens/) | Hard |
+| [0494-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0494-target-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -477,4 +480,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/kajal824/LEETCODE-Questions/tree/main/0051-n-queens/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
