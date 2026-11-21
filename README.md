@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/kajal824/LEETCODE-Questions/tree/main/0027-remove-element/) | Easy |
 | [0046-permutations](https://github.com/kajal824/LEETCODE-Questions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/kajal824/LEETCODE-Questions/tree/main/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/kajal824/LEETCODE-Questions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0136-single-number/) | Easy |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/kajal824/LEETCODE-Questions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/kajal824/LEETCODE-Questions/tree/main/0051-n-queens/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,4 +473,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/kajal824/LEETCODE-Questions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
