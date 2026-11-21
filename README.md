@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/kajal824/LEETCODE-Questions/tree/main/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/kajal824/LEETCODE-Questions/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/kajal824/LEETCODE-Questions/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0137-single-number-ii/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/kajal824/LEETCODE-Questions/tree/main/0079-word-search/) | Medium |
 | [0835-image-overlap](https://github.com/kajal824/LEETCODE-Questions/tree/main/0835-image-overlap/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal824/LEETCODE-Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/kajal824/LEETCODE-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/kajal824/LEETCODE-Questions/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/kajal824/LEETCODE-Questions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/kajal824/LEETCODE-Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kajal824/LEETCODE-Questions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/kajal824/LEETCODE-Questions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/0386-lexicographical-numbers/) | Medium |
@@ -429,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/kajal824/LEETCODE-Questions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/kajal824/LEETCODE-Questions/tree/main/0051-n-queens/) | Hard |
+| [0079-word-search](https://github.com/kajal824/LEETCODE-Questions/tree/main/0079-word-search/) | Medium |
 | [0494-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0494-target-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
