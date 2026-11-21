@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/kajal824/LEETCODE-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kajal824/LEETCODE-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/kajal824/LEETCODE-Questions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/kajal824/LEETCODE-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/kajal824/LEETCODE-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kajal824/LEETCODE-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Stack
@@ -493,4 +496,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0494-target-sum/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kajal824/LEETCODE-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
