@@ -1,24 +1,39 @@
 class Solution {
+    
     public int numDistinct(String s, String t) {
-        int m = s.length(), n = t.length();
-        if (m < n) {
+
+        int[][] dp = new int[s.length()][t.length()];
+        for(int[]a:dp){
+            Arrays.fill(a,-1);
+        }
+
+        return solve(s,t,0, 0, dp);
+        
+    }
+
+
+    public int solve(String s, String t, int i, int j , int[][] dp){
+        if(j==t.length()){
+            return 1;
+        }
+        if(i==s.length() && j!= t.length()){
             return 0;
         }
-        int[][] dp = new int[m + 1][n + 1];
-        for (int i = 0; i <= m; i++) {
-            dp[i][n] = 1;
+        if(dp[i][j]!=-1){
+            return dp[i][j];
         }
-        for (int i = m - 1; i >= 0; i--) {
-            char sChar = s.charAt(i);
-            for (int j = n - 1; j >= 0; j--) {
-                char tChar = t.charAt(j);
-                if (sChar == tChar) {
-                    dp[i][j] = dp[i + 1][j + 1] + dp[i + 1][j];
-                } else {
-                    dp[i][j] = dp[i + 1][j];
-                }
-            }
+        int take = 0;
+        int ntk = 0;
+         
+        if(s.charAt(i)==t.charAt(j)){
+            take= solve(s,t,i+1, j+1, dp);
+
+            ntk = solve(s,t, i+1, j, dp);
+        }else{
+           ntk =  solve(s,t,i+1, j, dp);
         }
-        return dp[0][0];
+        return dp[i][j]= take+ntk;
+        
+
     }
 }
