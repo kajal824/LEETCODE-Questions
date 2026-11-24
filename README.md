@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kajal824/LEETCODE-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kajal824/LEETCODE-Questions/tree/main/0027-remove-element/) | Easy |
+| [0039-combination-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/kajal824/LEETCODE-Questions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/kajal824/LEETCODE-Questions/tree/main/0051-n-queens/) | Hard |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kajal824/LEETCODE-Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/kajal824/LEETCODE-Questions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/kajal824/LEETCODE-Questions/tree/main/0051-n-queens/) | Hard |
