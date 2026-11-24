@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/kajal824/LEETCODE-Questions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/kajal824/LEETCODE-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/kajal824/LEETCODE-Questions/tree/main/0383-ransom-note/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/kajal824/LEETCODE-Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal824/LEETCODE-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/kajal824/LEETCODE-Questions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/kajal824/LEETCODE-Questions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0494-target-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/kajal824/LEETCODE-Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0518-coin-change-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/kajal824/LEETCODE-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/kajal824/LEETCODE-Questions/tree/main/1143-longest-common-subsequence/) | Medium |
