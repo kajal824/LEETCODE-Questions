@@ -4,7 +4,7 @@ class Solution {
         HashMap<Integer, Integer> vis = new HashMap<>();
 
         for (int i = 0; i < graph.length; i++) {
-            // Only start a new BFS if this component hasn't been visited yet
+            
             if (!vis.containsKey(i)) {
                 q.add(new gph(i, 0));
 
@@ -12,7 +12,7 @@ class Solution {
                     gph tr = q.poll();
 
                     if (vis.containsKey(tr.ver)) {
-                        // Conflict occurs if the already-assigned color differs from the new color
+                        
                         if (vis.get(tr.ver) != tr.clr) {
                             return false;
                         }
