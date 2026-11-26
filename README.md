@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kajal824/LEETCODE-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/kajal824/LEETCODE-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/kajal824/LEETCODE-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/kajal824/LEETCODE-Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal824/LEETCODE-Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/kajal824/LEETCODE-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/kajal824/LEETCODE-Questions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/kajal824/LEETCODE-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/kajal824/LEETCODE-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kajal824/LEETCODE-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/kajal824/LEETCODE-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/kajal824/LEETCODE-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -546,6 +549,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/kajal824/LEETCODE-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0997-find-the-town-judge](https://github.com/kajal824/LEETCODE-Questions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/kajal824/LEETCODE-Questions/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/kajal824/LEETCODE-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/kajal824/LEETCODE-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
