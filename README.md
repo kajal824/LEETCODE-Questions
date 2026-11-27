@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kajal824/LEETCODE-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/kajal824/LEETCODE-Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kajal824/LEETCODE-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/kajal824/LEETCODE-Questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/kajal824/LEETCODE-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -570,4 +571,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/kajal824/LEETCODE-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/kajal824/LEETCODE-Questions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
